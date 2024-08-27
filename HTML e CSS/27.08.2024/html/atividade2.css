@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(245, 148, 148);
+}
+
+#titulo{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bordaTitulo{
+    border: 4px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+img{
+/* Largura */
+    width: 400px;
+/* altura */
+    height: auto;
+/* arredonda o conteudo */
+    border-radius: 10px;
+/* border = espessura, tipo e cor */    
+    border: 5px solid black;
+    
+}
+.categoria{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.explicacao{
+    font-size: 14px;
+    color: black;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}

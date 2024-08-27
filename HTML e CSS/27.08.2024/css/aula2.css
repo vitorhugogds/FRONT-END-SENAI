@@ -1,0 +1,35 @@
+body{
+/*muda a cor do corpo da pagina web*/
+    background-color: aqua;
+
+}
+p{
+/*muda a cor do paragrafo*/
+    color: blue;
+
+/* muda o tamanho da fonte*/
+    font-size: 14px;
+
+/* muda a familia da fonte */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sublinhado{
+    text-decoration: underline;
+    color: black;
+}
+#tituloPrincipal{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40pt;
+    text-align: center;
+
+}
+img{
+/* Largura */
+    width: 400px;
+/* altura */
+    height: auto;
+/* arredonda o conteudo */
+    border-radius: 10px;
+/* border = espessura, tipo e cor */    
+    border: 5px solid black;
+}
